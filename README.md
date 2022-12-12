@@ -4,6 +4,7 @@
 This is a application of making and taking notes.
 
 ## Installation
+No Installation needed
 
 ## Usage
 1. By typing the first box for the name of the title. 
@@ -15,5 +16,11 @@ This is a application of making and taking notes.
 None
 
 ## Image
+<img src="./ScreenCapture-assi11.png" alt="ScreenShot">
 
 ## Link
+GitHub repository:
+https://github.com/timo9939/assignment11
+
+Deployed Webiste (Heroku):
+https://assig11.herokuapp.com
