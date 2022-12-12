@@ -7,7 +7,7 @@ function createNote(body,notesList){
     const note=body;
     notesList.push(note);
     console.log(JSON.stringify(notesList));
-    fs.appendFile(
+    fs.writeFile(
         path.join(__dirname, '../db/note.json'),
         JSON.stringify(notesList),
         function(err, result) {
