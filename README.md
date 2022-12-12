@@ -16,7 +16,7 @@ No Installation needed
 None
 
 ## Image
-<img src="./ScreenCapture-assi11.png" alt="ScreenShot">
+![screenshot-assi-11](ScreenCapture-assi11.PNG)
 
 ## Link
 GitHub repository:
